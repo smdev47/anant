@@ -1,6 +1,6 @@
 
 export default function Document() {
   return (
-    <div>Document</div>
+    <div>Documents</div>
   )
 }
